@@ -10,3 +10,5 @@
 
  
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/KingMan242/world26/<action name taken from main.yml>/develop?style=flat-square)
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/KingMan242/world26/<action name taken from main.yml>/<branch>?style=flat-square)
