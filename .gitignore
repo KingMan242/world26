@@ -1,6 +1,5 @@
 target/
 
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -10,5 +9,5 @@ target/
 *.iml
 *.ipr
 
-  .mvn/
-  .idea/
+ .mvn/
+ .idea/
